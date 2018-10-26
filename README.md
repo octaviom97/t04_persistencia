@@ -17,7 +17,7 @@
 11. ¿Cómo leo información de la base de datos?
 12. ¿Cuáles son las diferentes maneras de almacenar datos en Android?
 13. ¿Qué caracterizó a Immanuel Kant aparte de sus grandes escritos filosóficos? (Esta NO es pregunta EXTRA, pista: "The Konigsberg clock", pista dos: es una característica personal)
-14. ¿Qué es la Logoterapia, y quién es su fundador?
+14. ¿Qué es la Logoterapia? y ¿quién es su fundador?
 15. ¿Por qué los países fracasan? En particular, ¿por qué México fracasa?
 16. Describe en 1 oración una idea de producto tecnológico para cambiar un aspecto de México
 17. ¿Leer es importante? ¿Sí, no? ¿Por qué?
