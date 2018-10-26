@@ -27,3 +27,4 @@
 1. ¿Qué es neofetch e instalarlo?
 
 ## Tarea (código)
+* Entregar la la app de la calculadora totalmente funcional
